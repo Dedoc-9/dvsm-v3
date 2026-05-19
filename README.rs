@@ -1,5 +1,8 @@
 # DVSM-v3
 
+Author: Daniel J. Dillberg
+  Contact: BigDilly95@gmail.com
+
 **Deterministic Variable-State Machine** — frame coherence supervisor for ROG Ally X (Z1 Extreme, RDNA3 Phoenix APU) with tunable wattage, frame generation, anti-ghosting, and cryptographic replay verification.
 
 ## Core Equation
